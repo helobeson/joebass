@@ -331,16 +331,7 @@ button{
         border-right: none;
         max-width: 100%;
     }
-    .email-box{
-        width: 100%;
-        padding: 0 15px;
-    }
-    .email_txt{
-        height: 100%;
-        border: none;
-        background: none;
-        outline: none;
-        color: #201600;
-        width: 90%; 
+    .footer__item li{
+        padding-left: 10px;
     }
 }
